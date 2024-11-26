@@ -1,5 +1,9 @@
 {
   "name": "chat-temp",
+  "description": "一个基于 OpenRouter API 的聊天应用模板。",
+  "author": "MEANC",
+  "license": "MIT",
+  "homepage": "https://github.com/meanc/chat-temp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
